@@ -21,7 +21,7 @@ A simple Tic Tac Toe game built with Python. This project is a basic implementat
 ## Usage
 After starting the game, follow the on-screen prompts to play. Players will take turns to place their marks (X or O) on the 3x3 grid. The first player to get three in a row (horizontally, vertically, or diagonally) wins the game. If the grid is full and no player has won, the game ends in a draw.
 
-# Example
+### Example
 1. Start the Game:
 
 - Run the script to start the game.
